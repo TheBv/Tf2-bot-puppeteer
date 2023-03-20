@@ -1,0 +1,4 @@
+﻿  botmanager.cpp
+g:\repos\sourcemod\alliedmodders\sourcemod\public\sample_ext\msvc12\botmanager.cpp(98): warning C4035: 'CBotManager::GetBot' : no return value
+g:\repos\sourcemod\alliedmodders\sourcemod\public\sample_ext\msvc12\botmanager.cpp(107): warning C4715: 'CBotManager::GetBot' : not all control paths return a value
+  sdk.vcxproj -> G:\Repos\sourceMod\alliedmodders\sourcemod\public\sample_ext\msvc12\Debug - Orange Box Valve\BotPuppeteer.ext.dll
